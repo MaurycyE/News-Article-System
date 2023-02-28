@@ -1,4 +1,3 @@
-# Private
 Description of application
 
 In order to run project first You need to implement data base which is named news_article_system.sql. You can use XAMPP to import that .sql file.
